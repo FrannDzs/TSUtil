@@ -1,8 +1,6 @@
 # TSUtil
  This utility was developed to simplify maintenance and modification of TS-routes.
 
-# Notes on the use of the TSUtil source.
-
 # Prerequisites:
 - Java-SDK version 1.5 or higher must be installed (e.g. Windows: 'jdk-1_5_0_22-windows-i586-p.exe' )
 	but ALL newer Java versions should also work.
@@ -20,3 +18,7 @@ the result can be used directly Enter the desired command in the dos window. e.g
 The log file will be created in the installation directory as 'TSutil.log'.
 
 Attention: Please pay attention to upper/lower case.
+
+#Credits:
+
+© Carl-Heinz Rave
