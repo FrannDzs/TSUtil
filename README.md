@@ -22,3 +22,6 @@ Attention: Please pay attention to upper/lower case.
 # Credits:
 
 © Carl-Heinz Rave
+	
+# Disclaimer
+The TSUtil source code is provided for educational purposes ONLY. This repository is not affiliated with or endorsed by their respective copyright holders.
