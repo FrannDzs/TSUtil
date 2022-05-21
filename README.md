@@ -6,9 +6,7 @@
 	but ALL newer Java versions should also work.
 
 # Installation:
-- create any directory as installation directory and unpack zip-file there
 - Change the access path in Dos.lnk (Run in) to the installation directory.
-
 
 # Usage:
 
