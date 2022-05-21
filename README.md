@@ -19,6 +19,6 @@ The log file will be created in the installation directory as 'TSutil.log'.
 
 Attention: Please pay attention to upper/lower case.
 
-#Credits:
+# Credits:
 
 © Carl-Heinz Rave
